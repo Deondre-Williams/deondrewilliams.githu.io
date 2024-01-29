@@ -1,0 +1,41 @@
+html{
+    font-family: 'Crimson Pro', serif;
+    font-size: 15px;
+    background-color: #00539f;
+}
+body{
+    width:600px;
+    margin:0 auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    border:5px solid black;
+}
+.os1{
+    color: #3FBF3F;
+}
+.os2{
+    color:#38A6EE;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    margin:0;
+    padding:20px 0;
+    color:#00539f;
+    text-shadow:20px 20px 20px black;
+}
+img{
+    display: block;
+    margin:0 auto;
+}
+h2{
+    margin-left:20px;
+}
+h3{
+    font-size: 30px;
+}
+li,p{
+   letter-spacing: 1px;
+    line-height: 2;
+    font-size: 16px;
+}
